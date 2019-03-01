@@ -1,6 +1,6 @@
 """
 Author: Piotr A. Zolnierczuk (zolnierczukp at ornl dot gov)
-
+        borrowed by SoixanteSix
 Based on a paper by:
 Drawing an elephant with four complex parameters
 Jurgen Mayer, Khaled Khairy, and Jonathon Howard,
